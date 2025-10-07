@@ -1,0 +1,6 @@
+langchain
+langchain-chroma
+chromadb
+langchain-community
+flask
+langchain-google-genai
